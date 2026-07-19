@@ -51,6 +51,6 @@
 		"@types/node": "^8.10.39",
 		"tslint": "^5.12.1",
 		"typescript": "^3.1.4",
-		"vscode": "^1.1.25"
+		"vscode": "^1.1.37"
 	}
 }
